@@ -1,6 +1,6 @@
 # Currency Converter
 
-Prosty konwerter walut zbudowany w C++ i Qt6 z graficznym interfejsem użytkownika (GUI). Aplikacja pobiera aktualne kursy walut z API exchangerate.host i przelicza wskazaną kwotę między różnymi walutami.
+Prosty konwerter walut zbudowany w C++ i QT designer (GUI). Aplikacja pobiera aktualne kursy walut z API exchangerate.host i przelicza wskazaną kwotę między różnymi walutami.
 
 ## 🖥️ Zrzut ekranu
 
