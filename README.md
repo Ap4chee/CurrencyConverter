@@ -4,7 +4,7 @@ Prosty konwerter walut zbudowany w C++ i Qt6 z graficznym interfejsem użytkowni
 
 ## 🖥️ Zrzut ekranu
 
-![Zrzut ekranu](![image](https://github.com/user-attachments/assets/c9925d50-6044-484c-bd50-7e8e01a00123))
+![Zrzut ekranu](image.png)
 
 ## Funkcje
 
